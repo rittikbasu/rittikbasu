@@ -1,7 +1,7 @@
-# Hello folks, I'm Rittik Basu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World, I'm Rittik Basu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About me
-I'm a Computer Science Engineering undergrad at Amity University Mumbai. I'm interested in **Web Development** and **Data Science** and I'm looking to collaborate on projects in the same.
+I'm a Computer Science undergrad who's passionate about solving real world problems through programming. I'm interested in **Web Development** and **Data Science** and I'm looking to collaborate on projects in the same.
 
 ### Tools and Technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
