@@ -9,7 +9,7 @@ I'm a Computer Science undergrad who's passionate about solving real world probl
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-Cloud Firestore-informational?style=flat&logo=firebase&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-Cloud_Firestore-informational?style=flat&logo=firebase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=blue)
