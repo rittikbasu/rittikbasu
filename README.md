@@ -1,4 +1,4 @@
-# Hello World, I'm Rittik Basu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World, I'm Rittik Basu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ### About me
 I'm a Computer Science undergrad who's passionate about solving real world problems through programming. I'm interested in **Web Development**, **Data Science** & **Blockchain Technology** and I'm looking to collaborate on projects in the same.
